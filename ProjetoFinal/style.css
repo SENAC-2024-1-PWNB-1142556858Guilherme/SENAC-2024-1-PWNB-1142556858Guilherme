@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #CB07B7;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px 0;
+}
+
+.Home {
+    background-color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.Home-conteudo {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.Noticias{
+    color: #000000;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.Sobre-nos {
+   
+    color: #000000;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.contatos {
+    color: #f0f0f0;
+    background-color: #CB07B7;
+    padding: 40px 0;
+    text-align: left;
+}
+.forma {
+    text-align: center;
+    color: #f0f0f0;
+}
+
+footer {
+    background-color: #4B0082;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+  
+  .imagem {
+    float: center;
+    width: auto;
+ 
+  }
+  
+  .texto {
+    display: inline-block;
+  }
+  
+
